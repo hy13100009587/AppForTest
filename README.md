@@ -1,0 +1,2 @@
+# AppForTest
+taro for wechat
